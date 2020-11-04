@@ -1,0 +1,13 @@
+.jumbotron__title{
+  padding: 10px;
+  border-bottom: 1px solid rgba(150, 146, 146, 0.808);
+}
+.discount__text{
+  color: crimson;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.jumbotron__info{
+  padding: 10px;
+  border-bottom: 1px solid rgba(150, 146, 146, 0.808);
+}
