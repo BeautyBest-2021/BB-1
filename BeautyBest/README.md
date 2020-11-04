@@ -1,5 +1,4 @@
 
-material-dashboard-react
 .
 ├── CHANGELOG.md
 ├── ISSUE_TEMPLATE.md
